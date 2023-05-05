@@ -19,7 +19,7 @@ Browser web modern (Chrome, Firefox, Safari, dll)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-Open [http://localhost:3000](http://localhost:3004) with your browser to see database.
+Open [http://localhost:3004](http://localhost:3004) with your browser to see database.
 
 ## Fitur
 * Halaman CRUD
