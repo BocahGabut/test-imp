@@ -22,11 +22,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 Open [http://localhost:3000](http://localhost:3004) with your browser to see database.
 
 ## Fitur
-* Halaman daftar post
-* Halaman create post
-* Halaman edit post
-* Halaman update post
-* Halaman delete post
+* Halaman CRUD
+* Halaman blog
+* Halaman blog details
 
 ## Libraries yang Digunakan
 * Next.js
